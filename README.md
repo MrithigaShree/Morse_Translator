@@ -8,4 +8,8 @@ Morse code is a method used in telecommunication to encode text characters as st
 This code runs on shell. You will be able to translate both ways.
 
 Pre-requisites - 
-* Python
+* Python  
+
+### Installation of Python  
+https://www.python.org/  
+
